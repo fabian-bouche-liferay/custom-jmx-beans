@@ -1,0 +1,3 @@
+Bundle-Name: jmx-beans
+Bundle-SymbolicName: com.liferay.samples.fbo.jmx
+Bundle-Version: 1.0.0
